@@ -2,7 +2,7 @@
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
-
+https://huggingface.co/runwayml/stable-diffusion-v1-5
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
 - Original txt2img and img2img modes
